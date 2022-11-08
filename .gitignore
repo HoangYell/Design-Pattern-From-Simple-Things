@@ -1,0 +1,4 @@
+/.idea/
+/requirements.txt
+/.pre-commit-config.yaml
+/deploy_git.sh
