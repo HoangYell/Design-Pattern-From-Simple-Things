@@ -21,4 +21,5 @@ _code snippets of [hoangyell.com/categories/designpattern](https://hoangyell.com
   - **Vending Machine Method:**
     <img width="904" alt="image" src="https://user-images.githubusercontent.com/7069077/201270657-b632575e-6f24-40f2-8b40-d776a0ea879b.png">
   - **Abstract Vending Machine:**
-    <img width="1024" alt="image" src="https://user-images.githubusercontent.com/7069077/201321982-3f06acf1-7503-4e7f-a7d4-80f13ff992ce.png">
+    <img width="1016" alt="image" src="https://user-images.githubusercontent.com/7069077/201324030-2ed26c25-4907-479c-a292-0bdc6c1a69a4.png">
+
