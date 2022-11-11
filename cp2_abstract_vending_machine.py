@@ -85,4 +85,3 @@ if __name__ == "__main__":
         print(beverage_vending_machine.make_burp())
         print(beverage_vending_machine.make_hungry())
         print(snack_vending_machine.make_thirsty())
-        print("==========")
