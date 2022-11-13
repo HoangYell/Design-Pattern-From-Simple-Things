@@ -25,4 +25,3 @@ _code snippets of [hoangyell.com/categories/designpattern](https://hoangyell.com
 
   - **Abstract Vending Machine:**
     <img width="1016" alt="image" src="https://user-images.githubusercontent.com/7069077/201324030-2ed26c25-4907-479c-a292-0bdc6c1a69a4.png">
-

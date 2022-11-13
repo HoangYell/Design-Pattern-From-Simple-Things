@@ -6,6 +6,10 @@ class Beverage(ABC):
     def make_burp(self):
         pass
 
+    @abstractmethod
+    def make_hungry(self):
+        pass
+
 
 class Snack(ABC):
     @abstractmethod
@@ -17,6 +21,9 @@ class RegularBeverage(Beverage):
     def make_burp(self):
         return "BURP"
 
+    def make_hungry(self):
+        return "I'm hungry"
+
 
 class RegularSnack(Snack):
     def make_thirsty(self):
@@ -27,10 +34,22 @@ class DietBeverage(Beverage):
     def make_burp(self):
         return "Diet - BURP"
 
+    def make_hungry(self):
+        return "Diet - I'm hungry"
+
+    def lose_weight(self):
+        return "Only Diet - I lost weight"
+
 
 class DietSnack(Snack):
     def make_thirsty(self):
         return "Diet - I'm thirsty"
+
+    def make_anorexia(self):
+        return "Only Diet - I'm anorexia"
+
+    def make_healthy(self):
+        return "Only Diet - I'm getting better"
 
 
 class AbstractVendingMachine(ABC):
@@ -41,24 +60,6 @@ class AbstractVendingMachine(ABC):
     @abstractmethod
     def create_snack(self):
         pass
-
-    def show_beverage_info(self):
-        beverage = self.create_beverage()
-        info = {
-            **beverage.__dict__,
-            "type": type(beverage),
-            "burp_sound": beverage.make_burp(),
-        }
-        return info
-
-    def show_snack_info(self):
-        snack = self.create_snack()
-        info = {
-            **snack.__dict__,
-            "type": type(snack),
-            "thirsty_sound": snack.make_thirsty(),
-        }
-        return info
 
 
 class RegularVendingMachine(AbstractVendingMachine):
@@ -80,8 +81,7 @@ class DietVendingMachine(AbstractVendingMachine):
 if __name__ == "__main__":
     for vending_machine in (RegularVendingMachine(), DietVendingMachine()):
         beverage_vending_machine = vending_machine.create_beverage()
-        print(vending_machine.show_beverage_info())
-        print(f'       - "{beverage_vending_machine.make_burp()}"')
         snack_vending_machine = vending_machine.create_snack()
-        print(vending_machine.show_snack_info())
-        print(f'       - "{snack_vending_machine.make_thirsty()}"')
+        print(beverage_vending_machine.make_burp())
+        print(beverage_vending_machine.make_hungry())
+        print(snack_vending_machine.make_thirsty())
