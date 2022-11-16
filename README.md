@@ -9,6 +9,7 @@ _code snippets of [hoangyell.com/categories/designpattern](https://hoangyell.com
 ---
 
 - [SP1 Adapter](https://hoangyell.com/p/sp1-adapter-learn-design-pattern-from-simple-things/)
+  <img width="689" alt="image" src="https://user-images.githubusercontent.com/7069077/202238106-a587babd-e4c6-4435-a6e5-8691d8215620.png">
 
 ---
 
