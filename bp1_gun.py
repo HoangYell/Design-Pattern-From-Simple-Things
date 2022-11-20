@@ -36,6 +36,7 @@ class Gun(Iterator):
 
 if __name__ == "__main__":
     bullets = Bullets()
+    # Input 1: Having many bullets:
     bullets.load("1stBullet")
     bullets.load("2ndBullet")
     bullets.load("3rdBullet")
@@ -43,6 +44,7 @@ if __name__ == "__main__":
     gun = iter(bullets)
     first_fired_bullet = next(gun)
     remaining_bullets = "-".join(gun)
+    # Expected Output 1: Firing bullets in expected order by: Normal Gun
     print(
         f"⬅️ Normal Gun 🔫:\n🎯First Shoot: {first_fired_bullet} \n🎯The Rest: {remaining_bullets}"
     )
@@ -50,6 +52,7 @@ if __name__ == "__main__":
     lifo_gun = bullets.to_lifo_gun()
     first_fired_bullet = next(lifo_gun)
     remaining_bullets = "-".join(lifo_gun)
+    # Expected Output 2: Firing bullets in expected order by: LIFO Gun
     print(
         f"🔄 LIFO Gun 🔫:\n🎯First Shoot: {first_fired_bullet} \n🎯The Rest: {remaining_bullets}"
     )
