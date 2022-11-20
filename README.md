@@ -25,3 +25,8 @@ _code snippets of [hoangyell.com/categories/designpattern](https://hoangyell.com
     <img width="1022" alt="image" src="https://user-images.githubusercontent.com/7069077/201326839-c220b6f1-d53b-4e0b-8279-6dd0143fb347.png">
   - **Abstract Vending Machine:**
     <img width="1016" alt="image" src="https://user-images.githubusercontent.com/7069077/201324030-2ed26c25-4907-479c-a292-0bdc6c1a69a4.png">
+
+---
+
+- [BP1 Gun](https://hoangyell.com/p/bp1-gun-iterator-design-pattern-from-simple-things/)
+  <img width="708" alt="image" src="https://user-images.githubusercontent.com/7069077/202880298-3a615160-fc79-47ac-a4f7-4c06b4ad4ebd.png">
