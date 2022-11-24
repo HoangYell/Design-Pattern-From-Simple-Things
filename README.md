@@ -30,3 +30,8 @@ _code snippets of [hoangyell.com/categories/designpattern](https://hoangyell.com
 
 - [BP1 Gun](https://hoangyell.com/p/bp1-gun-iterator-design-pattern-from-simple-things/)
   <img width="708" alt="image" src="https://user-images.githubusercontent.com/7069077/202880298-3a615160-fc79-47ac-a4f7-4c06b4ad4ebd.png">
+
+---
+
+- [CP3 Builder](https://hoangyell.com/p/cp3-builder-design-pattern-from-simple-things/)
+  <img width="807" alt="image" src="https://user-images.githubusercontent.com/7069077/203665788-3354dbea-2b04-4586-accf-b7647167fc09.png">
