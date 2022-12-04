@@ -30,3 +30,6 @@ _code snippets of [hoangyell.com/categories/designpattern](https://hoangyell.com
 
 # [CP3 Builder](https://hoangyell.com/p/cp3-builder-design-pattern-from-simple-things/)
   <img width="807" alt="image" src="https://user-images.githubusercontent.com/7069077/203665788-3354dbea-2b04-4586-accf-b7647167fc09.png">
+  
+# [SP2 Decorator](https://hoangyell.com/p/sp2-decorator-function-decorator-closure-learn-design-pattern-from-simple-things/)<img width="1020" alt="image" src="https://user-images.githubusercontent.com/7069077/205496812-911f3c64-23ec-4df2-97a0-c5f3f3f20451.png">
+
