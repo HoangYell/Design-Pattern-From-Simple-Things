@@ -63,5 +63,5 @@ if __name__ == "__main__":
 
     strategy = TikiTaka()
     print(f"Manager: Hey team! apply {strategy.name}")
-    football_club.strategy = TikiTaka()
+    football_club.strategy = strategy
     football_club.attack()
