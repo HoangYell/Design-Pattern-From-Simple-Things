@@ -44,7 +44,7 @@ class FootballClub:
     def strategy(self, strategy):
         self._strategy = strategy
 
-    def pass_the_ball(self):
+    def attack(self):
         formation = [
             ["LB", "CB", "CB", "CB"],
             ["LCM", "CDM", "RCM"],
@@ -59,9 +59,9 @@ if __name__ == "__main__":
     strategy = CounterAttack()
     football_club = FootballClub(strategy)
     print(f"Manager: Hey team! apply {strategy.name}")
-    football_club.pass_the_ball()
+    football_club.attack()
 
     strategy = TikiTaka()
     print(f"Manager: Hey team! apply {strategy.name}")
     football_club.strategy = TikiTaka()
-    football_club.pass_the_ball()
+    football_club.attack()
