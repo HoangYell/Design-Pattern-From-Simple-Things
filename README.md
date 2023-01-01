@@ -36,3 +36,5 @@ _code snippets of [hoangyell.com/categories/designpattern](https://hoangyell.com
 # [BP2 Strategy](https://hoangyell.com/p/bp2-strategy-learn-design-pattern-from-simple-things/)<img width="826" alt="image" src="https://user-images.githubusercontent.com/7069077/206896998-acbc4566-86ba-4829-913e-facb1c2ce8de.png">
 
 # [CP4 Prototype](https://hoangyell.com/p/cp4-prototype-learn-design-pattern-from-simple-things/)<img width="866" alt="image" src="https://user-images.githubusercontent.com/7069077/208253852-a6e3f152-9846-4855-8161-ef23abe97c2e.png">
+
+# [SP3 Tree](https://hoangyell.com/p/sp3-tree-learn-design-pattern-from-simple-things/)<img width="705" alt="image" src="https://user-images.githubusercontent.com/7069077/210161906-3c5d8744-8b5f-4f96-bc24-21f043fce85b.png">
