@@ -39,5 +39,6 @@ _code snippets of [hoangyell.com/categories/designpattern](https://hoangyell.com
 
 # [SP3 Tree<br>](https://hoangyell.com/p/sp3-tree-learn-design-pattern-from-simple-things/)<img width="705" alt="image" src="https://user-images.githubusercontent.com/7069077/210161906-3c5d8744-8b5f-4f96-bc24-21f043fce85b.png">
 
-# [BP3 Command<br>](https://hoangyell.com/p/sp3-command-learn-design-pattern-from-simple-things/)<img width="924" alt="image" src="https://user-images.githubusercontent.com/7069077/212450729-1c2126ad-f09a-4c84-b286-6ef5d74e4c57.png">
+# [BP3 Command<br>](https://hoangyell.com/p/bp3-command-learn-design-pattern-from-simple-things/)<img width="924" alt="image" src="https://user-images.githubusercontent.com/7069077/212450729-1c2126ad-f09a-4c84-b286-6ef5d74e4c57.png">
 
+# [BP4 HandlingChain<br>](https://hoangyell.com/p/bp4-handling-chain-learn-design-pattern-from-simple-things/)<img width="722" alt="image" src="https://user-images.githubusercontent.com/7069077/217001206-1aecf43b-becd-4bdf-a233-950dae58ad80.png">
