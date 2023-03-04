@@ -44,4 +44,3 @@ _code snippets of [hoangyell.com/categories/designpattern](https://hoangyell.com
 # [BP4 HandlingChain<br>](https://hoangyell.com/p/bp4-handling-chain-learn-design-pattern-from-simple-things/)<img width="722" alt="image" src="https://user-images.githubusercontent.com/7069077/217001206-1aecf43b-becd-4bdf-a233-950dae58ad80.png">
 
 # [CP5 Singleton<br>](https://hoangyell.com/p/cp5-singleton-learn-design-pattern-from-simple-things/)<img width="463" alt="image" src="https://user-images.githubusercontent.com/7069077/222916926-e8c91998-78e8-4b89-b20a-3b87e90b4b22.png">
-
