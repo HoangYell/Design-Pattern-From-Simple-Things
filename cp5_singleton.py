@@ -1,7 +1,8 @@
 from threading import Lock
+from time import sleep
 
 
-class SingletonMeta(type):
+class PhoneLineSingleton(type):
     _instances = {}
     _lock = Lock()
 
@@ -19,14 +20,18 @@ class SingletonMeta(type):
         return cls._instances[cls]
 
 
-class SingleInstance(metaclass=SingletonMeta):
-    def some_business_logic(self):
-        print(id(self))
+class PhoneLine(metaclass=PhoneLineSingleton):
+    def __init__(self):
+        sleep(10)
+
+    def talk(self):
+        print(f"talking on the {id(self)} line")
 
 
-if __name__ == "__main__":
-    instance_1 = SingleInstance()
-    instance_2 = SingleInstance()
+# Example usage:
+phone_line_1 = PhoneLine()
+phone_line_2 = PhoneLine()
 
-    is_the_same = id(instance_1) == id(instance_2)
-    print(is_the_same)
+# Both objects refer to the same instance
+phone_line_1.talk()
+phone_line_2.talk()
