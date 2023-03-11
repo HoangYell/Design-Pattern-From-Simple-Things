@@ -37,11 +37,17 @@ _code snippets of [hoangyell.com/categories/designpattern](https://hoangyell.com
 
 # [CP4 Prototype<br>](https://hoangyell.com/p/cp4-prototype-learn-design-pattern-from-simple-things/)<img width="866" alt="image" src="https://user-images.githubusercontent.com/7069077/208253852-a6e3f152-9846-4855-8161-ef23abe97c2e.png">
 
+# [CP5 Singleton<br>](https://hoangyell.com/p/cp5-singleton-learn-design-pattern-from-simple-things/)<img width="978" alt="image" src="https://user-images.githubusercontent.com/7069077/223170566-1d2c85ea-ff4e-4d03-a231-85640e916fd8.png">
+
 # [SP3 Tree<br>](https://hoangyell.com/p/sp3-tree-learn-design-pattern-from-simple-things/)<img width="705" alt="image" src="https://user-images.githubusercontent.com/7069077/210161906-3c5d8744-8b5f-4f96-bc24-21f043fce85b.png">
 
 # [BP3 Command<br>](https://hoangyell.com/p/bp3-command-learn-design-pattern-from-simple-things/)<img width="924" alt="image" src="https://user-images.githubusercontent.com/7069077/212450729-1c2126ad-f09a-4c84-b286-6ef5d74e4c57.png">
 
 # [BP4 HandlingChain<br>](https://hoangyell.com/p/bp4-handling-chain-learn-design-pattern-from-simple-things/)<img width="722" alt="image" src="https://user-images.githubusercontent.com/7069077/217001206-1aecf43b-becd-4bdf-a233-950dae58ad80.png">
 
-# [CP5 Singleton<br>](https://hoangyell.com/p/cp5-singleton-learn-design-pattern-from-simple-things/)<img width="978" alt="image" src="https://user-images.githubusercontent.com/7069077/223170566-1d2c85ea-ff4e-4d03-a231-85640e916fd8.png">
+# [BP5 Observer<br>](https://hoangyell.com/p/bp5-observer-learn-design-pattern-from-simple-things/)<img width="1008" alt="image" src="https://user-images.githubusercontent.com/7069077/224493886-47952d62-33a8-4702-b2d8-cab3a0bb51c5.png">
+
+
+
+
 
