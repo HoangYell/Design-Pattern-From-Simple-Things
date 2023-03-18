@@ -47,6 +47,7 @@ _code snippets of [hoangyell.com/categories/designpattern](https://hoangyell.com
 
 # [BP5 Observer<br>](https://hoangyell.com/p/bp5-observer-learn-design-pattern-from-simple-things/)<img width="1008" alt="image" src="https://user-images.githubusercontent.com/7069077/224493886-47952d62-33a8-4702-b2d8-cab3a0bb51c5.png">
 
+# [BP6 State<br>](https://hoangyell.com/p/bp5-state-learn-design-pattern-from-simple-things/)<img width="1145" alt="image" src="https://user-images.githubusercontent.com/7069077/226086072-4c6c68fc-9e7d-4885-a32b-e143520522bb.png">
 
 
 
