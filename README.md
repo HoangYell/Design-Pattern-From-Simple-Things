@@ -49,4 +49,5 @@ _code snippets of [hoangyell.com/categories/designpattern](https://hoangyell.com
 
 # [BP6 State<br>](https://hoangyell.com/p/bp5-state-learn-design-pattern-from-simple-things/)<img width="1145" alt="image" src="https://user-images.githubusercontent.com/7069077/226086072-4c6c68fc-9e7d-4885-a32b-e143520522bb.png">
 
-# [BP7 Template Method<br>](https://hoangyell.com/p/bp5-template-method-learn-design-pattern-from-simple-things/)
+# [BP7 Template Method<br>](https://hoangyell.com/p/bp5-template-method-learn-design-pattern-from-simple-things/)<img width="835" alt="image" src="https://user-images.githubusercontent.com/7069077/229270478-44b33811-d007-4e7d-9154-2de922ddd70a.png">
+
