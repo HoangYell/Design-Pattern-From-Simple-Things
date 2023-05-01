@@ -72,8 +72,6 @@ if __name__ == "__main__":
 
     photoshop.edit("Blue")
     _file = photoshop.save()
-    ssd_storage.save(_file)
-
     print(f"Current: {photoshop}")  # Current: RedGreenBlue
 
     _file = ssd_storage.pop_previous_file()
