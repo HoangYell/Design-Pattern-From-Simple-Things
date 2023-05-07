@@ -55,3 +55,4 @@ _code snippets of [hoangyell.com/categories/designpattern](https://hoangyell.com
 
 # [BP9 File History<br>](https://hoangyell.com/bp9-file-history-learn-design-pattern-from-simple-things/)<img width="981" alt="image" src="https://user-images.githubusercontent.com/7069077/235480393-409b5a06-4af5-43ae-bcfc-c6e1bbb894b6.png">
 
+# [BP10 Mediator<br>](https://hoangyell.com/bp10-mediator-learn-design-pattern-from-simple-things/)
