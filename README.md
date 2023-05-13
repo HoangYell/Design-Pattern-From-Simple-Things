@@ -57,3 +57,5 @@ _code snippets of [hoangyell.com/categories/designpattern](https://hoangyell.com
 
 # [BP10 Mediator<br>](https://hoangyell.com/bp10-mediator-learn-design-pattern-from-simple-things/)![image](https://user-images.githubusercontent.com/7069077/236681459-16664918-48ba-4b81-b5de-94edd5318f0c.png)
 
+# [SP4 Mixer<br>](https://hoangyell.com/sp4-mixer-learn-design-pattern-from-simple-things/)<img width="904" alt="image" src="https://github.com/HoangYell/Design-Pattern-From-Simple-Things/assets/7069077/7b906c33-1d4e-46bd-b42f-2b12d5a41536">
+
