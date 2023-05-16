@@ -59,3 +59,5 @@ _code snippets of [hoangyell.com/categories/designpattern](https://hoangyell.com
 
 # [SP4 Mixer<br>](https://hoangyell.com/sp4-mixer-learn-design-pattern-from-simple-things/)<img width="904" alt="image" src="https://github.com/HoangYell/Design-Pattern-From-Simple-Things/assets/7069077/7b906c33-1d4e-46bd-b42f-2b12d5a41536">
 
+# [SP5 Facade<br>](https://hoangyell.com/sp5-facade-learn-design-pattern-from-simple-things/)<img width="973" alt="image" src="https://github.com/HoangYell/Design-Pattern-From-Simple-Things/assets/7069077/a2cdc8cc-2f8b-4935-8862-cf1b72d18d3f">
+
