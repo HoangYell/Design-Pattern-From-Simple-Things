@@ -28,7 +28,6 @@ class BuildingFacade:
             self.elevator.move(floor)
 
 
-# Client code
 if __name__ == "__main__":
     building = BuildingFacade()
     building.enter(1234, "Nancy", 5)
