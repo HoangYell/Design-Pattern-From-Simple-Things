@@ -61,4 +61,4 @@ _code snippets of [hoangyell.com/categories/designpattern](https://hoangyell.com
 
 # [SP5 Facade<br>](https://hoangyell.com/sp5-facade-learn-design-pattern-from-simple-things/)<img width="980" alt="image" src="https://github.com/HoangYell/Design-Pattern-From-Simple-Things/assets/7069077/94cea254-1413-4465-9ad5-b218bdd12d33">
 
-
+# [SP6 Object Pool<br>](https://hoangyell.com/sp6-object-pool-learn-design-pattern-from-simple-things/)<img width="898" alt="image" src="https://github.com/HoangYell/Design-Pattern-From-Simple-Things/assets/7069077/60cd130c-af72-43b1-af79-59340337b1ed">
