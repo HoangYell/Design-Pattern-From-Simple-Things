@@ -63,5 +63,4 @@ _code snippets of [hoangyell.com/categories/designpattern](https://hoangyell.com
 
 # [SP6 Object Pool<br>](https://hoangyell.com/sp6-object-pool-learn-design-pattern-from-simple-things/)<img width="898" alt="image" src="https://github.com/HoangYell/Design-Pattern-From-Simple-Things/assets/7069077/60cd130c-af72-43b1-af79-59340337b1ed">
 
-# [SP7 Proxy<br>](https://hoangyell.com/sp6-proxy-learn-design-pattern-from-simple-things/)<img width="1110" alt="image" src="https://github.com/HoangYell/Design-Pattern-From-Simple-Things/assets/7069077/1feb2b7b-e877-4dd5-90b2-d999ccf8ded8">
-
+# [SP7 Proxy<br>](https://hoangyell.com/sp7-proxy-learn-design-pattern-from-simple-things/)<img width="1110" alt="image" src="https://github.com/HoangYell/Design-Pattern-From-Simple-Things/assets/7069077/1feb2b7b-e877-4dd5-90b2-d999ccf8ded8">
