@@ -33,6 +33,5 @@ if __name__ == "__main__":
     # current time is 9:00 AM
     origin = FreeInternetAccess()
     origin.grant_access()
-    # current time is 6:00 PM
     proxy = CompanyProxyInternetAccess()
     proxy.grant_access()
