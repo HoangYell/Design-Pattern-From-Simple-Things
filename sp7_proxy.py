@@ -1,12 +1,19 @@
 import datetime
+from abc import ABC, abstractmethod
 
 
-class FreeInternetAccess:
+class InternetAccess(ABC):
+    @abstractmethod
+    def grant_access(self):
+        pass
+
+
+class FreeInternetAccess(InternetAccess):
     def grant_access(self):
         print("Access granted. You can browse the free internet now!")
 
 
-class CompanyProxyInternetAccess:
+class CompanyProxyInternetAccess(InternetAccess):
     def __init__(self):
         self.free_internet_access = FreeInternetAccess()
 
